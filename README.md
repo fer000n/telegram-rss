@@ -4,6 +4,8 @@ A simple converter Telegram channel to RSS Feeds
 [![NPM](https://nodei.co/npm/telegram-rss.png?mini=true)](https://www.npmjs.com/package/telegram-rss)
 [![npm version](https://badge.fury.io/js/telegram-rss.svg)](https://www.npmjs.com/package/telegram-rss)
 
+
+Added rssok.cjs for multi rss handler
 ## Features
 
 * ✅ No Authentication
